@@ -4,7 +4,7 @@
 #include <stdint.h>
 #include <ctype.h>
 #include <math.h>
-#include <getopt.h>
+#include <getopt.h> /* for usage control */
 #define MAX_ROW_SIZE 1024
 #define MAX_COLUMN_SIZE 128/* the text must have maximum 128 char length */
 
